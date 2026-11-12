@@ -12,5 +12,4 @@
     echo "carga (1 min): " . $carga['1_min'] . "<br>";
     echo "carga (5 min): " . $carga['15_min'] . "<br>";
     
- f
 ?>

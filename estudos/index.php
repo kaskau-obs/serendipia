@@ -1,3 +1,3 @@
 <?php
 
-echo "Teste de localhost";
+echo "Teste de local";
